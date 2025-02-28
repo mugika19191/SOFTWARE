@@ -1,8 +1,8 @@
-# Cambiad el branch para ver el codigo
-Este repositorio contiene diferentes ramas (**branches**) que incluyen variaciones del código. Asegúrate de cambiar a la rama correspondiente para acceder al contenido que deseas.
+# My Godot Game - Linux Build
 
-# Pasos para cambiar de branch:
+This repository contains the Linux build of my Godot game. Below, you'll find instructions on how to download, install, and run the game on your Linux system.
 
-1. Ve al menú desplegable de ramas en la parte superior izquierda del repositorio en GitHub.
-2. Selecciona la rama deseada del listado.
-3. El repositorio se actualizará automáticamente para mostrar el código de la rama seleccionada.
+
+# Download
+
+You can download every release, dates are in the file name.
